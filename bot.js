@@ -321,7 +321,6 @@ client.on('message', message => {
 ╰━━╮┃┃╭━╮┃╭╮┃┃
 ┃╰━╯┃┃╰━╯┃╰╯┃╰╮
 ╰━━━╯╰━━━┻━━┻━╯
-Support : https://discord.gg/7XpHbqP 
 :black_medium_square: Servers : ${client.guilds.size}
 :black_medium_square: Users : ${client.users.size}
 By , <@456641975932813345> - <@323885452207587329> 
