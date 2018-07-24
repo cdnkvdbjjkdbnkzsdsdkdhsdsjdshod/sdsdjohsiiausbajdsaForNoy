@@ -1157,19 +1157,6 @@ client.on('message', message => {
 
 
 	
-	client.on('ready', () => {
-  try {
-    var g = client.guilds.get('407597042223939585');
-    var r = g.roles.find('name' , 'RainBow');
-    client.setInterval(() => {
-      r.edit({
-        color: "RANDOM"
-      });
-    },4000);
-  } catch(e) {
-    if(e) console.error(e);
-  }
-});
 
 
 
