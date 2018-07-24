@@ -18,6 +18,8 @@
     "common-tags":"1.7.2",
     "zalgolize":"1.2.4",
     "eris":"0.8.5",
+    "jimp":"0.2.28",
+    "canvas":"1.6.11",
     "quick.db":"6.3.1",
     "google-translate-api":"2.3.0",
     "ascii-data-table":"2.1.1",
